@@ -43,4 +43,4 @@ Long-term: Develop business expertise, launch a profitable company, and build a 
 📫 Let's Connect:
 
 
- Feel free to connect with me at rengargavan17@gmail.com 
+ Feel free to connect with me at rengaragavan17@gmail.com 
