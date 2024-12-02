@@ -10,7 +10,7 @@ Computer Engineering Candidate | front end developer
 
  -UI/UX designing intern at Teachnook
 
- -software developer at freshmind technologies
+ -software developer intern at freshmind technologies
 
 ⚙️ Technical Skills:
 
@@ -32,6 +32,8 @@ GitHub  VScode
 -Full-Stack Web Development and Cloud Technologies
 
 -Intersection of Technology and Business Strategy
+
+-To learn react and next.js
 
 
 🚀 Career Aspirations:
