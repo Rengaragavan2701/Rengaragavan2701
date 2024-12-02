@@ -1,0 +1,6 @@
+- 👋 Hi, I’m RENGA RAGAVAN R
+- 👀 I’m interested in front-end development 
+- 🌱 I’m currently learning js dom and react
+- 📫 How to reach me rengaragavan17@gmail.com
+- 😄 Pronouns: he/him
+- 
